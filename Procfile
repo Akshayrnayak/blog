@@ -1,0 +1,1 @@
+web: gunicorn akshay_mysite.wsgi
